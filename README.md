@@ -20,6 +20,7 @@ Follow these steps to set up and run the application:
 Clone the Repository
 
 git clone https://github.com/sandeepnayak123/CurrentAI.git
+
 cd CurrentAI
 Create Conda Environment
 
